@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bulma": "^0.4.1",
     "inferno": "^3.1.1",
     "inferno-component": "^3.1.1",
     "inferno-redux": "^3.1.1",
