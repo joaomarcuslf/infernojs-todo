@@ -4,6 +4,7 @@ import { Router, Route } from 'inferno-router';
 import createBrowserHistory from 'history/createBrowserHistory';
 import App from './containers/app';
 import configureStore from './store/configureStore';
+import 'bulma/css/bulma.css'
 
 const store = configureStore();
 
