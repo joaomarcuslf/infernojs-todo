@@ -1,7 +1,7 @@
 import Inferno from 'inferno';
 import { connect } from 'inferno-redux';
 
-const App = ({}) => {
+const App = () => {
   return (
     <h1>
       Hello World
