@@ -11,11 +11,11 @@
     "isomorphic-fetch": "^2.2.1",
     "mori": "^0.3.2",
     "redux": "^3.6.0",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "redux-logger": "^3.0.1"
   },
   "devDependencies": {
-    "inferno-scripts": "3.0.0",
-    "redux-logger": "^3.0.1"
+    "inferno-scripts": "3.0.0"
   },
   "scripts": {
     "start": "inferno-scripts start",
